@@ -502,3 +502,13 @@ footer {
         flex-direction: column !important;
     }
 }
+
+/* No mobile, o menu começa escondido ou fora da tela */
+#nav-menu {
+  display: none; /* Ou use transform: translateX(100%) para deslizar */
+}
+
+/* Quando o menu estiver ativo, ele aparece */
+#nav-menu.active {
+  display: block;
+}
