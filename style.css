@@ -1,6 +1,5 @@
 :root {
-    --primary-color: #ff6b00;
-    /* Laranja principal */
+    --primary-color: #ff6b00; /* Laranja principal */
     --primary-hover: #e66000;
     --bg-dark: #0f0f0f;
     --bg-body: #121212;
@@ -33,7 +32,7 @@ body {
 /* Utilitários */
 .container {
     padding: 80px 10%;
-    max-width: 100%
+    max-width: 1400px;
     margin: 0 auto;
 }
 
@@ -164,8 +163,7 @@ header {
     align-items: center;
     text-align: center;
     padding: 0 10%;
-    margin-top: 70px;
-    /* Desconto da navbar */
+    margin-top: 70px; /* Desconto da navbar */
 }
 
 .profile-container {
@@ -317,8 +315,7 @@ header {
     margin-bottom: 0.2rem;
 }
 
-.card .status,
-.card .date {
+.card .status, .card .date {
     font-size: 0.9rem;
     color: var(--text-gray);
     margin-bottom: 1rem;
@@ -341,7 +338,7 @@ header {
 
 .project-card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
     border-color: #444;
 }
 
@@ -374,8 +371,7 @@ header {
     color: var(--text-gray);
     font-size: 0.95rem;
     margin-bottom: 1rem;
-    height: 45px;
-    /* Alinha os botões */
+    height: 45px; /* Alinha os botões */
     overflow: hidden;
 }
 
@@ -426,21 +422,12 @@ footer {
    ========================================= */
 
 @media (max-width: 1024px) {
-    html {
-        font-size: 15px;
-    }
-
-    .container {
-        padding: 60px 5%;
-    }
-
-    .hero h1 {
-        font-size: 3rem;
-    }
+    html { font-size: 15px; }
+    .container { padding: 60px 5%; }
+    .hero h1 { font-size: 3rem; }
 }
 
 @media (max-width: 768px) {
-
     /* Navbar Mobile */
     .nav-links {
         position: absolute;
@@ -468,27 +455,19 @@ footer {
     }
 
     /* Hero Mobile */
-    .hero h1 {
-        font-size: 2.5rem;
-    }
-
-    .profile-container {
-        width: 150px;
-        height: 150px;
-    }
+    .hero h1 { font-size: 2.5rem; }
+    .profile-container { width: 150px; height: 150px; }
 
     /* Grid adjustment */
-    .timeline,
-    .project-grid {
-        grid-template-columns: 1fr;
-        /* Uma coluna no mobile */
+    .timeline, .project-grid {
+        grid-template-columns: 1fr; /* Uma coluna no mobile */
     }
-
+    
     .skills-container {
         padding: 20px;
         gap: 15px;
     }
-
+    
     .skill-icon {
         width: 70px;
     }
@@ -503,29 +482,35 @@ footer {
 .toggle .bar:nth-child(1) {
     transform: rotate(-45deg) translate(-5px, 6px);
 }
-
 .toggle .bar:nth-child(2) {
     opacity: 0;
 }
-
 .toggle .bar:nth-child(3) {
     transform: rotate(45deg) translate(-5px, -6px);
 }
 
-/* Para telas de celular (até 768px) */
+/* AJUSTE PARA CELULAR */
 @media (max-width: 768px) {
-  body {
-    overflow-x: hidden; /* Evita a barra de rolagem lateral */
-  }
+    * {
+        box-sizing: border-box; /* Garante que bordas não estiquem o site */
+    }
 
-  .container, .projeto-card { 
-    width: 90%; /* Ajusta a largura dos elementos para caber na tela */
-    margin: 0 auto;
-    flex-direction: column; /* Se usar Flexbox, empilha os itens verticalmente */
-  }
+    body {
+        overflow-x: hidden; /* Remove a barra de rolagem lateral chata */
+        width: 100%;
+    }
 
-  img {
-    max-width: 100%; /* Garante que imagens não fiquem maiores que a tela */
-    height: auto;
-  }
+    /* Ajusta imagens e containers para nunca passarem da tela */
+    img, .container, section, div {
+        max-width: 100% !important;
+        height: auto;
+    }
+
+    /* Se você usa Flexbox nos cards de projeto, empilha eles */
+    .secao-projetos, .cards-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
+
