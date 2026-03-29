@@ -503,12 +503,27 @@ footer {
     }
 }
 
-/* No mobile, o menu começa escondido ou fora da tela */
-#nav-menu {
-  display: none; /* Ou use transform: translateX(100%) para deslizar */
+/* Remova ou substitua aquele trecho final pelo código abaixo */
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: flex; /* Garante que o flex funcione no mobile */
+        /* ... suas outras configurações de posição que já estão no código ... */
+    }
+
+    /* Esta é a classe que o seu JS 'mobileMenu' ativa */
+    .nav-active {
+        transform: translateX(0%) !important;
+    }
 }
 
-/* Quando o menu estiver ativo, ele aparece */
-#nav-menu.active {
-  display: block;
+/* Animação para o ícone virar um 'X' (Opcional, mas fica profissional) */
+.toggle .bar:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+.toggle .bar:nth-child(2) {
+    opacity: 0;
+}
+.toggle .bar:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
 }
