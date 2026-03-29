@@ -478,39 +478,27 @@ footer {
     transform: translateX(0%);
 }
 
-/* Animação Hamburguer */
-.toggle .bar:nth-child(1) {
-    transform: rotate(-45deg) translate(-5px, 6px);
-}
-.toggle .bar:nth-child(2) {
-    opacity: 0;
-}
-.toggle .bar:nth-child(3) {
-    transform: rotate(45deg) translate(-5px, -6px);
-}
-
-/* AJUSTE PARA CELULAR */
-@media (max-width: 768px) {
+/* Ajuste rápido para Mobile */
+@media (max-width: 480px) {
     * {
-        box-sizing: border-box; /* Garante que bordas não estiquem o site */
+        box-sizing: border-box;
     }
-
+    
     body {
-        overflow-x: hidden; /* Remove a barra de rolagem lateral chata */
         width: 100%;
+        overflow-x: hidden; /* Remove o scroll lateral que apareceu no print */
+        margin: 0;
+        padding: 0;
     }
 
-    /* Ajusta imagens e containers para nunca passarem da tela */
+    /* Força as imagens e containers a caberem na tela */
     img, .container, section, div {
         max-width: 100% !important;
         height: auto;
     }
 
-    /* Se você usa Flexbox nos cards de projeto, empilha eles */
-    .secao-projetos, .cards-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+    /* Se você usa display: flex, isso empilha os itens */
+    .flex-container, .projetos {
+        flex-direction: column !important;
     }
 }
-
