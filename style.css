@@ -511,3 +511,21 @@ footer {
 .toggle .bar:nth-child(3) {
     transform: rotate(45deg) translate(-5px, -6px);
 }
+
+/* Para telas de celular (até 768px) */
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden; /* Evita a barra de rolagem lateral */
+  }
+
+  .container, .projeto-card { 
+    width: 90%; /* Ajusta a largura dos elementos para caber na tela */
+    margin: 0 auto;
+    flex-direction: column; /* Se usar Flexbox, empilha os itens verticalmente */
+  }
+
+  img {
+    max-width: 100%; /* Garante que imagens não fiquem maiores que a tela */
+    height: auto;
+  }
+}
