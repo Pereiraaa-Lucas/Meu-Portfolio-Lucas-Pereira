@@ -236,30 +236,30 @@ header {
     color: var(--text-white);
 }
 
+/* Este é o container principal dos ícones */
 .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    background-color: var(--card-bg);
-    padding: 30px;
-    border-radius: 10px;
-    justify-content: center;
-    border: 1px solid var(--border-color);
+    display: flex;         /* Habilita o Flexbox */
+    flex-wrap: wrap;       /* Faz os ícones pularem para a próxima linha se não couberem na mesma */
+    justify-content: center; /* Centraliza o grupo de ícones horizontalmente */
+    gap: 15px;             /* Cria um espaçamento uniforme entre os ícones */
+    width: 100%;           /* O container ocupa a largura total */
+    padding: 20px;         /* Um pouco de respiro interno */
+    background-color: #1a1a1a; /* Mantendo a cor de fundo do seu card */
+    border-radius: 10px;    /* E o arredondamento */
 }
 
+/* Se você também tem um texto/span para cada ícone e quer que ele fique centralizado abaixo */
 .skill-icon {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    width: 80px;
+    flex-direction: column; /* Organiza o ícone e o texto em coluna */
+    align-items: center;    /* Centraliza o conteúdo horizontalmente */
+    width: 70px;            /* Define uma largura fixa para cada bloco de ícone */
     text-align: center;
 }
 
 .skill-icon img {
-    width: 45px;
-    height: 45px;
-    transition: transform 0.3s ease;
+    width: 40px;            /* Ajuste o tamanho do ícone conforme necessário */
+    height: 40px;
 }
 
 .skill-icon img:hover {
