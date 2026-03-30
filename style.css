@@ -1,34 +1,20 @@
-/* ==========================================================================
-   1. VARIÁVEIS E SETUP (DESIGN SYSTEM)
-   ========================================================================== */
 :root {
-    /* Cores */
-    --primary: #ff6b00;
+    --primary-color: #ff6b00; /* Laranja principal */
     --primary-hover: #e66000;
+    --bg-dark: #0f0f0f;
     --bg-body: #121212;
-    --bg-card: #1a1a1a;
-    --bg-nav: rgba(15, 15, 15, 0.95);
-    
-    /* Tipografia & Cores de Texto */
-    --text-main: #ffffff;
-    --text-muted: #a0a0a0;
-    --text-dim: #555555;
-    
-    /* Layout */
-    --container-width: 1200px;
-    --header-height: 70px;
-    --border-color: #333333;
-    
-    /* Feedback Visual */
-    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    --shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    --card-bg: #1a1a1a;
+    --text-white: #ffffff;
+    --text-gray: #a0a0a0;
+    --border-color: #333;
+    --transition: all 0.3s ease;
 }
 
-/* Reset Padrão */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 }
 
 html {
@@ -38,65 +24,79 @@ html {
 
 body {
     background-color: var(--bg-body);
-    color: var(--text-main);
-    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    color: var(--text-white);
     line-height: 1.6;
     overflow-x: hidden;
 }
 
-/* ==========================================================================
-   2. COMPONENTES REUTILIZÁVEIS (UTILS)
-   ========================================================================== */
+/* Utilitários */
 .container {
-    max-width: var(--container-width);
+    padding: 80px 10%;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 80px 5%;
 }
 
-.section-title {
+.bg-light-section {
+    background-color: var(--bg-dark);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: var(--transition);
+}
+
+ul {
+    list-style: none;
+}
+
+h2 {
     font-size: 2.5rem;
     margin-bottom: 3rem;
-    border-left: 5px solid var(--primary);
+    border-left: 5px solid var(--primary-color);
     padding-left: 15px;
+    position: relative;
 }
 
-.btn {
+/* Botões */
+.btn-main {
     display: inline-block;
-    padding: 12px 28px;
-    border-radius: 6px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: var(--transition);
-    text-align: center;
-}
-
-.btn-primary {
-    background: var(--primary);
-    color: white;
-    border: none;
-}
-
-.btn-outline {
+    margin-top: 2rem;
+    padding: 12px 30px;
     background: transparent;
-    color: var(--primary);
-    border: 2px solid var(--primary);
+    color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
 }
 
-.btn:hover {
+.btn-main:hover {
+    background: var(--primary-color);
+    color: white;
     transform: translateY(-3px);
-    filter: brightness(1.1);
-    box-shadow: 0 5px 15px rgba(255, 107, 0, 0.3);
 }
 
-/* ==========================================================================
-   3. HEADER & NAVBAR (COM MOBILE MENU)
-   ========================================================================== */
+.btn-sm {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 8px 20px;
+    background: var(--primary-color);
+    color: white;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.btn-sm:hover {
+    background: var(--primary-hover);
+}
+
+/* Navbar */
 header {
-    background: var(--bg-nav);
-    backdrop-filter: blur(10px);
+    background: rgba(15, 15, 15, 0.98);
     position: fixed;
     width: 100%;
-    height: var(--header-height);
     top: 0;
     z-index: 1000;
     border-bottom: 1px solid var(--border-color);
@@ -106,96 +106,144 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100%;
-    max-width: var(--container-width);
+    padding: 1rem 10%;
+    height: 70px;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 0 5%;
 }
 
 .logo {
-    font-size: 1.6rem;
-    font-weight: 800;
+    font-size: 1.8rem;
+    font-weight: bold;
+    letter-spacing: -1px;
 }
 
-.logo span { color: var(--primary); }
+.logo span {
+    color: var(--primary-color);
+}
 
 .nav-links {
     display: flex;
-    gap: 2.5rem;
-    list-style: none;
+}
+
+.nav-links li {
+    margin-left: 2.5rem;
 }
 
 .nav-links a {
     font-size: 0.95rem;
     font-weight: 500;
-    color: var(--text-main);
-    transition: var(--transition);
+    position: relative;
 }
 
-.nav-links a:hover { color: var(--primary); }
+.nav-links a:hover {
+    color: var(--primary-color);
+}
 
-/* Hamburguer Menu UI */
+/* Mobile Menu Toggle */
 .menu-toggle {
     display: none;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 30px;
-    height: 21px;
     cursor: pointer;
 }
 
-.menu-toggle .bar {
+.bar {
+    display: block;
+    width: 25px;
     height: 3px;
-    width: 100%;
-    background-color: var(--text-main);
-    border-radius: 10px;
+    margin: 5px auto;
+    background-color: var(--text-white);
     transition: var(--transition);
 }
 
-/* ==========================================================================
-   4. SEÇÃO HERO
-   ========================================================================== */
+/* Hero Section */
 .hero {
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding-top: var(--header-height);
+    padding: 0 10%;
+    margin-top: 70px; /* Desconto da navbar */
 }
 
 .profile-container {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
+    margin: 0 auto 2rem;
     border-radius: 50%;
-    border: 4px solid var(--primary);
-    padding: 5px;
-    margin-bottom: 2rem;
+    border: 4px solid var(--primary-color);
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(255, 107, 0, 0.2);
     transition: var(--transition);
+}
+
+.profile-container:hover {
+    transform: scale(1.05) rotate(3deg);
+    box-shadow: 0 0 30px rgba(255, 107, 0, 0.4);
 }
 
 .profile-img {
     width: 100%;
     height: 100%;
-    border-radius: 50%;
     object-fit: cover;
 }
 
-.hero h1 { font-size: clamp(2.5rem, 8vw, 4rem); margin-bottom: 10px; }
-.hero h1 span { color: var(--primary); }
-.hero p { color: var(--text-muted); font-size: 1.2rem; max-width: 600px; }
+.hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 0.5rem;
+}
 
-/* ==========================================================================
-   5. SKILLS & CARDS
-   ========================================================================== */
-.skills-container {
+.hero h1 span {
+    color: var(--primary-color);
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: var(--text-gray);
+}
+
+.social-icons {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.social-icons a {
+    color: var(--text-white);
+    font-size: 1.8rem;
+    margin: 0 15px;
+}
+
+.social-icons a:hover {
+    color: var(--primary-color);
+    transform: translateY(-5px);
+}
+
+/* Sobre Mim & Skills Atualizado */
+.about-content {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    gap: 1.5rem;
-    background: var(--bg-card);
-    padding: 2.5rem;
-    border-radius: 15px;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+}
+
+.about-text p {
+    margin-bottom: 1.5rem;
+    color: var(--text-gray);
+    font-size: 1.1rem;
+}
+
+.skills-wrapper h3 {
+    margin-bottom: 1.5rem;
+    color: var(--text-white);
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: var(--card-bg);
+    padding: 30px;
+    border-radius: 10px;
+    justify-content: center;
     border: 1px solid var(--border-color);
 }
 
@@ -204,39 +252,216 @@ header {
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    width: 80px;
+    text-align: center;
+}
+
+.skill-icon img {
+    width: 45px;
+    height: 45px;
+    transition: transform 0.3s ease;
+}
+
+.skill-icon img:hover {
+    transform: scale(1.2) translateY(-5px);
+}
+
+.skill-icon span {
+    font-size: 0.75rem;
+    color: var(--text-gray);
+    font-weight: 500;
+}
+
+/* Forçar ícone do GitHub a ficar visível no fundo escuro */
+.icon-dark {
+    filter: invert(1) brightness(2);
+}
+
+/* Formação (Timeline adaptada para cards) */
+.timeline {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.card {
+    background: var(--card-bg);
+    padding: 2.5rem;
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    position: relative;
     transition: var(--transition);
 }
 
-.skill-icon:hover { transform: translateY(-5px); }
-.skill-icon img { width: 40px; height: 40px; }
-.skill-icon span { font-size: 0.8rem; color: var(--text-muted); }
+.card:hover {
+    border-color: var(--primary-color);
+    transform: translateY(-5px);
+}
 
-/* ==========================================================================
-   6. RESPONSIVIDADE (MOBILE)
-   ========================================================================== */
+.card-icon {
+    font-size: 2rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.card h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+}
+
+.card .institution {
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-bottom: 0.2rem;
+}
+
+.card .status, .card .date {
+    font-size: 0.9rem;
+    color: var(--text-gray);
+    margin-bottom: 1rem;
+}
+
+/* Projetos */
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.project-card {
+    background: var(--card-bg);
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+    transition: var(--transition);
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    border-color: #444;
+}
+
+.project-img-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.project-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.project-card:hover img {
+    transform: scale(1.1);
+}
+
+.project-info {
+    padding: 1.8rem;
+}
+
+.project-info h3 {
+    margin-bottom: 0.5rem;
+}
+
+.project-info p {
+    color: var(--text-gray);
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+    height: 45px; /* Alinha os botões */
+    overflow: hidden;
+}
+
+.project-tags {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 1rem;
+}
+
+.project-tags span {
+    font-size: 0.7rem;
+    background: rgba(255, 107, 0, 0.1);
+    color: var(--primary-color);
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+/* Footer & Contato */
+footer {
+    text-align: center;
+    background: var(--bg-dark);
+    border-top: 1px solid var(--border-color);
+}
+
+.footer-content {
+    padding: 60px 10%;
+}
+
+.contact-email {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.contact-email a:hover {
+    color: var(--primary-color);
+}
+
+.copyright {
+    margin-top: 3rem;
+    font-size: 0.85rem;
+    color: #555;
+}
+
+/* =========================================
+   MEDIA QUERIES (RESPONSIVIDADE)
+   ESSENCIAL PARA FUNCIONAR NO CELULAR
+   ========================================= */
+
+
+/* Ajustes para Mobile (Mobile First de verdade) */
 @media screen and (max-width: 768px) {
-    .section-title { font-size: 2rem; }
-    
-    .menu-toggle { display: flex; }
-
-    .nav-links {
-        position: fixed;
-        top: var(--header-height);
-        right: -100%;
-        flex-direction: column;
-        background: var(--bg-nav);
-        width: 100%;
-        height: calc(100vh - var(--header-height));
-        padding: 50px 0;
-        text-align: center;
-        transition: 0.5s ease;
-        backdrop-filter: blur(15px);
+    .container {
+        padding: 40px 5%;
     }
 
-    .nav-links.active { right: 0; }
+    h2 {
+        font-size: 1.8rem;
+    }
 
-    /* Animação do X */
-    .menu-toggle.is-active .bar:nth-child(1) { transform: translateY(9px) rotate(45deg); }
-    .menu-toggle.is-active .bar:nth-child(2) { opacity: 0; }
-    .menu-toggle.is-active .bar:nth-child(3) { transform: translateY(-9px) rotate(-45deg); }
+    .nav-links {
+        position: absolute;
+        right: 0px;
+        height: 92vh;
+        top: 70px;
+        background-color: var(--bg-dark);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in;
+        z-index: 100;
+    }
+
+    .nav-links li {
+        margin: 20px 0;
+        opacity: 0;
+    }
+
+    .menu-toggle {
+        display: block; /* Mostra o hambúrguer no mobile */
+    }
+
+    .nav-active {
+        transform: translateX(0%);
+    }
 }
+
+/* Animação do X no menu hambúrguer */
+.toggle .bar:nth-child(1) { transform: rotate(-45deg) translate(-5px, 6px); }
+.toggle .bar:nth-child(2) { opacity: 0; }
+.toggle .bar:nth-child(3) { transform: rotate(45deg) translate(-5px, -6px); }
