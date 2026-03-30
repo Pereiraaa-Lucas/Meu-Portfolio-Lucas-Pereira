@@ -465,3 +465,82 @@ footer {
 .toggle .bar:nth-child(1) { transform: rotate(-45deg) translate(-5px, 6px); }
 .toggle .bar:nth-child(2) { opacity: 0; }
 .toggle .bar:nth-child(3) { transform: rotate(45deg) translate(-5px, -6px); }
+
+/* =========================================
+   ESTILO PADRÃO (MOBILE FIRST) 📱
+   ========================================= */
+
+/* Container de Skills */
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 20px;
+    background: var(--bg-card);
+    border-radius: 15px;
+    align-items: center;
+}
+
+.skills-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+}
+
+/* Destaque para o JS sozinho */
+.single-js .skill-icon img {
+    width: 55px; /* Um pouco maior para dar destaque */
+    height: 55px;
+}
+
+.skill-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    min-width: 70px;
+}
+
+.skill-icon img {
+    width: 40px;
+    height: 40px;
+    transition: var(--transition);
+}
+
+/* Navbar Mobile */
+.nav-links {
+    display: none; /* Escondido por padrão no mobile */
+    /* ... seu estilo de menu mobile aqui ... */
+}
+
+/* =========================================
+   DESKTOP / TELAS GRANDES (MEDIA QUERY) 💻
+   ========================================= */
+@media screen and (min-width: 1024px) {
+    .container {
+        padding: 80px 10%;
+    }
+
+    .hero h1 {
+        font-size: 3.5rem;
+    }
+
+    .nav-links {
+        display: flex; /* Mostra a barra de navegação no PC */
+        position: static;
+        height: auto;
+        width: auto;
+        background: transparent;
+        transform: none;
+    }
+
+    .menu-toggle {
+        display: none; /* Esconde o botão hambúrguer no PC */
+    }
+    
+    .skills-container {
+        padding: 40px;
+    }
+}
