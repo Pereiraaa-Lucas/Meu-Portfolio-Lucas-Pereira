@@ -11,17 +11,27 @@
 </head>
 
 <body>
-
-    <header>
+<header>
         <nav class="navbar">
             <div class="logo">LP<span>.dev</span></div>
-            
-            <div class="menu-toggle" id="mobile-menu">
-                    <span class="bar"></span>
-                    <span class="bar"></span>
-                    <span class="bar"></span>
+            <div>
+                <div class="menu-toggle">
+                    <nav id="mobile-menu">
+                        <div class="menu-toggle" onclick="toggleMenu()">
+                            <!-- Ícone Hambúrguer -->
+                            &#9776;
+                        </div>
+                        <nav id="mobile-menu" class="hidden">
+                            <ul>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Sobre</a></li>
+                                <li><a href="#">Formação</a></li>
+                                <li><a href="#">Projetos</a></li>
+                                <li><a href="#">Contato</a></li>
+                            </ul>
+                        </nav>
+
                 </div>
-            
                 <ul class="nav-links">
                     <li><a href="#home">Home</a></li>
                     <li><a href="#sobre">Sobre Mim</a></li>
@@ -141,47 +151,30 @@
         <h2>Meus Projetos</h2>
         <div class="project-grid">
             <div class="project-card">
-                <img src="Starbucks App.png" alt="Starbucks App">
-                <div class="project-img-container">
-                    <img src="assets/Starbucks App.png" alt="Starbucks App">
-                </div>
+                <img src="assets/Starbucks App.png" alt="Starbucks App">
                 <div class="project-info">
                     <h3>Starbucks App</h3>
                     <p>Landing page focada em UI/UX e fidelidade de marca.</p>
-                </div>
-                <div class="projeto-tags">
-                    <span>HTML</span><span>CSS</span><span>JS</span>
-                    <div>
-                        <a href="#" class="btn-sm" target="_blank">Ver Código<i class="fas fa-github"></i></a>
-                    </div>
-                </div>
-                <div class="project-card">
-                    <div class="project-img-container">
-                        <img src="assets/CamisaPRO.png" alt="CamisaPro">
-                    </div>
-                    <div class="project-info">
-                        <h3>CamisaPRO</h3>
-                        <p>Landing page para venda de uniformes personalizados com modo escuro.</p>
-                        <div class="projeto-tags">
-                            <span>HTML</span><span>CSS</span>
-                        </div>
-                        <a href="#" class="btn-sm" target="_blank">Ver Código<i class="fas fa-github"></i></a>
-                    </div>
-                </div>
-                <div class="project-card">
-                    <div class="project-img-container">
-                        <img src="assets/Elite Barber Shop.png" alt="Elite Barber Shop">
-                    </div>
-                    <div class="project-info">
-                        <h3>Elite Barber Shop</h3>
-                        <p>Sistema de agendamento e login com interface moderna.</p>
-                        <div class="projeto-tags">
-                            <span>React</span><span>Node</span>
-                        </div>
-                        <a href="#" class="btn-sm" target="_blank">Ver Código<i class="fas fa-github"></i></a>
-                    </div>
+                    <a href="#" class="btn-sm">Ver Código</a>
                 </div>
             </div>
+            <div class="project-card">
+                <img src="assets/CamisaPro.png" alt="CamisaPro">
+                <div class="project-info">
+                    <h3>CamisaPRO</h3>
+                    <p>Landing page para venda de uniformes personalizados com modo escuro.</p>
+                    <a href="#" class="btn-sm">Ver Código</a>
+                </div>
+            </div>
+            <div class="project-card">
+                <img src="assets/Barbeiro de elite Shop.png" alt="Elite Barber Shop">
+                <div class="project-info">
+                    <h3>Elite Barber Shop</h3>
+                    <p>Sistema de agendamento e login com interface moderna.</p>
+                    <a href="#" class="btn-sm">Ver Código</a>
+                </div>
+            </div>
+        </div>
     </section>
 
     <footer id="contato">
