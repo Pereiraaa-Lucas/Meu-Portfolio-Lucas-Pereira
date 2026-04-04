@@ -1,8 +1,8 @@
-Olá! Sou Lucas Pereira, tenho 21 anos e sou um aspirante a Desenvolvedor Front-End movido pelo desafio de transformar linhas de código em experiências digitais memoráveis.
-Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), com formação prevista para julho de 2028. Minha jornada na tecnologia começou com uma base sólida em Python e JavaScript (via Curso em Vídeo), e desde então venho refinando minha capacidade de unir código limpo a um design moderno e funcional.
-
-O que busco:
-Estou em plena transição de carreira, focado em conquistar minha primeira oportunidade como Estagiário ou Suporte Júnior,Pleno e Sênior. Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tudo, eficiente e acessível.
+<p>Olá! Sou Lucas Pereira, tenho 21 anos e sou um aspirante a Desenvolvedor Front-End movido pelo desafio de transformar linhas de código em experiências digitais memoráveis.</p>
+<p>Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), com formação prevista para julho de 2028.
+ Minha jornada na tecnologia começou com uma base sólida em Python, HTML5, CSS e JavaScript (via Curso em Vídeo),e desde então venho refinando minha capacidade de unir código limpo a um design moderno e funcional.</p>
+ <p><strong>Que busco:</strong> Estou em plena transição de carreira, focado em conquistar minha primeira oportunidade como Estagiário ou Suporte <strong>júnior</strong>.
+Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tudo, eficiente e acessível.</p>
 
 - Desevolvedor Front-End | Black-End
 
@@ -11,7 +11,6 @@ Estou em plena transição de carreira, focado em conquistar minha primeira opor
    <img align="center" alt="Pereiraaa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pereiraaa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pereiraaa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pereiraaa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
@@ -19,7 +18,6 @@ Estou em plena transição de carreira, focado em conquistar minha primeira opor
 <div>
   <a href="https://www.youtube.com/channel/LucasPereiraYoutuber target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pereiraaa_lucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:Lucas.s.pereira0099@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-pereira-pcd-585a38226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
