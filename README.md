@@ -4,7 +4,7 @@
  <p><strong>Que busco:</strong> Estou em plena transição de carreira, focado em conquistar minha primeira oportunidade como <strong>Estagiário</strong> ou Suporte <strong>Júnior</strong>.
 Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tudo, eficiente e acessível.</p>
 
-- Desevolvedor Front-End | Black-End
+- Desevolvedor Front-End | Back-End 
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Pereiraaa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
