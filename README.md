@@ -17,6 +17,7 @@ Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tud
   <img align="center" alt="Pereiraaa-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Pereiraaa-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+
 ##
 
 <div>
