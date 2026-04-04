@@ -409,9 +409,24 @@ footer {
     padding: 60px 10%;
 }
 
+/* Nova classe para o texto que você pediu */
+.contact-description {
+    font-size: 1.1rem;
+    color: #aaa; /* Um tom levemente mais claro que o fundo */
+    margin: 1.5rem auto; 
+    max-width: 600px;
+    line-height: 1.6;
+}
+
 .contact-email {
     font-size: 1.2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem; /* Aumentado para dar espaço aos ícones */
+}
+
+.contact-email a {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
 }
 
 .contact-email a:hover {
