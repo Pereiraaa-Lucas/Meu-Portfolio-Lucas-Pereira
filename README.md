@@ -1,6 +1,6 @@
 <p>Olá! <strong>Sou Lucas Pereira</strong>, tenho 21 anos e sou um aspirante a Desenvolvedor Front-End movido pelo desafio de transformar linhas de código em experiências digitais memoráveis.</p>
 <p>Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), com formação prevista para julho de 2028.
- Minha jornada na tecnologia começou com uma base sólida em <strong>Python</strong>, <strong>HTML5</strong , <strong>CSS</strong> e <strong>JavaScript</strong> (via Curso em Vídeo),e desde então venho refinando minha capacidade de unir código limpo a um design moderno e funcional.</p>
+ Minha jornada na tecnologia começou com uma base sólida em <strong>Python</strong>, <strong>HTML5</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> (via Curso em Vídeo),e desde então venho refinando minha capacidade de unir código limpo a um design moderno e funcional.</p>
  <p><strong>Que busco:</strong> Estou em plena transição de carreira, focado em conquistar minha primeira oportunidade como Estagiário ou Suporte <strong>Júnior</strong>.
 Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tudo, eficiente e acessível.</p>
 
