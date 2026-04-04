@@ -6,7 +6,8 @@ Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tud
 
 - Desevolvedor Front-End | Back-End 
 
-<div style="display: inline-block">
+
+  <div style="display: inline-block">
   <br>
   <img align="center" alt="Pereiraaa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pereiraaa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,9 +15,10 @@ Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tud
   <img align="center" alt="Pereiraaa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img align="center" alt="Pereiraaa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  img align="center" alt="Pereiraaa-GitHub" height="30" width="40" src="https://img.shields.io/badge/-white?logo=github&logoColor=white&color=white&style=flat-square 
+  <img align="center" alt="Pereiraaa-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Pereiraaa-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+ 
 
 ##
 
