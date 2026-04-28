@@ -513,47 +513,38 @@ footer {
     }
 }
 
-/* Animação do Menu Mobile (JS ativa essa classe) */
-.nav-active {
-    transform: translateX(0%);
-}
-
-/* Animação Hamburguer */
-.toggle .bar:nth-child(2) {
-    opacity: 0;
-}
-
-.toggle .bar:nth-child(1) {
-    transform: translateY(8px) rotate(45deg);
-}
-
-.toggle .bar:nth-child(3) {
-    transform: translateY(-8px) rotate(-45deg);
-}
-
-.nav-menu {
+/* Correção do Menu Mobile */
+.menu-toggle {
     display: none;
-    flex-direction: column;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    width: 100%;
-    background-color: #333;
-}
-
-.nav-menu.active {
-    display: block;
-}
-
-.menu-hamburger {
     cursor: pointer;
+    z-index: 1001;
 }
 
-.bar {
+.menu-toggle .bar {
     display: block;
     width: 25px;
     height: 3px;
     margin: 5px auto;
     background-color: white;
     transition: all 0.3s ease-in-out;
+}
+
+/* Animação para o "X" quando a classe .toggle for adicionada */
+#mobile-menu.toggle .bar:nth-child(2) {
+    opacity: 0;
+}
+
+#mobile-menu.toggle .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+}
+
+#mobile-menu.toggle .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+}
+
+/* Ajuste da Navbar Mobile no Media Query */
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: block;
+    }
 }
