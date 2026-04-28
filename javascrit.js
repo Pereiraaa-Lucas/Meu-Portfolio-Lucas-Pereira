@@ -71,11 +71,3 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
-
-const menuHamburger = document.querySelector('hamburguer');
-const navMenu = document.querySelector('nav-list');
-
-menuHamburger.addEventListener('click', () => {
-    menuHamburger.classList.toggle('active');
-    navMenu.classList.toggle('active');
-});
