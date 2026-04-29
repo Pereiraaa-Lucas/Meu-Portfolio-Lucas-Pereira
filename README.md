@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou Lucas Pereira!</h1>
+  <h1>Olá, eu sou Lucas Pereira! 👋</h1>
   <p>Desenvolvedor Front-End | Em busca da minha primeira oportunidade como Estagiário ou Júnior.</p>
 </div>
 
@@ -37,20 +37,17 @@ Minha stack atual, focada em entregar interfaces modernas:
 
 ## 📊 Estatísticas GitHub
 
-Aqui estão as estatísticas geradas automaticamente do meu perfil:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Lucas Pereira" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=radical&langs_count=6" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Lucas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pereiraaa-Lucas&theme=radical" alt="Streak Lucas" />
 </div>
 
 ---
 
-## ☕ Lifestyle & Focus
+## ☕ Code, Coffee, Repeat
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600&auto=format&fit=crop" alt="Ambiente de Trabalho com Código e Café" width="600" />
-  <p><em>Code. Coffee. Repeat.</em></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LnQyT2r6363c4/giphy.gif" width="300" />
 </div>
 
 ---
