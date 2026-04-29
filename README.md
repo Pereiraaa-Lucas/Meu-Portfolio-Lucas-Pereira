@@ -40,7 +40,6 @@ Uma visão geral das tecnologias que utilizo para construir soluções digitais:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=transparent" />
 </div>
 
-
 ---
 
 ### ☕ Lifestyle & Focus
@@ -48,6 +47,7 @@ Uma visão geral das tecnologias que utilizo para construir soluções digitais:
   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" width="600px" alt="Code Coffee Repeat" />
   <br>
   <em>Code. Coffee. Repeat.</em>
+  <p align="center"><em>"A tecnologia deve ser visualmente impressionante, mas, acima de tudo, eficiente e acessível."</em></p>
 </div>
 
 ---
