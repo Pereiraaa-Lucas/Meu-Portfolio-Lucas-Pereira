@@ -1,71 +1,68 @@
-# Olá, eu sou o Lucas Pereira 👋
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Oportunidades-green?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Front--End%20Development-blue?style=for-the-badge" alt="Focus">
-</p>
-
----
-
-### 🚀 Sobre Mim
-
-Sou um aspirante a **Desenvolvedor Front-End** apaixonado por transformar lógica complexa em interfaces intuitivas e memoráveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** (Previsão de formação: 07/2028).
-
-Minha jornada é movida pelo aprendizado contínuo, unindo uma base sólida em algoritmos com o desejo de criar soluções acessíveis e de alto impacto visual.
-
-- 💼 **Objetivo:** Primeira oportunidade como Estagiário ou Desenvolvedor Júnior.
-- 🎓 **Educação:** Graduando em ADS.
-- 💡 **Filosofia:** "Código limpo, design moderno e performance impecável."
-
----
-
-### 🛠️ Tech Stack
-
-**Front-End & Linguagens:**
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
-
-**Ferramentas & Workflow:**
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+<div align="center">
+  <h1>Olá, eu sou Lucas Pereira!</h1>
+  <p>Desenvolvedor Front-End | Em busca da minha primeira oportunidade como Estagiário ou Júnior.</p>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 Sobre Mim
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com formação prevista para julho de 2028. Minha jornada na tecnologia é movida pela curiosidade e pelo desafio de transformar designs em experiências digitais funcionais e acessíveis.
 
----
+Minha base técnica começou com Python, mas encontrei minha paixão no desenvolvimento Front-End. Hoje, foco em criar interfaces modernas utilizando tecnologias que garantem performance e escalabilidade.
 
-### ☕ Lifestyle & Focus
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Code Coffee Repeat" width="400" style="border-radius: 10px;">
-  <br>
-  <em>Code. Coffee. Repeat.</em>
-</p>
+- 🎓 Cursando: Análise e Desenvolvimento de Sistemas (ADS)
+- 🚀 Objetivo: Vaga de Estágio ou Júnior em Front-End.
+- 💡 Filosofia: Código limpo, design funcional e foco na experiência do usuário.
 
 ---
 
-### 📫 Vamos conversar?
+## 🛠️ Tecnologias e Ferramentas
 
-Tem um projeto em mente ou quer trocar uma ideia sobre tecnologia? Sinta-se à vontade para me encontrar nas redes sociais ou me enviar um e-mail!
+Minha stack atual, focada em entregar interfaces modernas:
 
-<div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+Aqui estão as estatísticas geradas automaticamente do meu perfil:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Lucas Pereira" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=radical&langs_count=6" alt="Linguagens Mais Usadas" />
+</div>
+
+---
+
+## ☕ Lifestyle & Focus
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600&auto=format&fit=crop" alt="Ambiente de Trabalho com Código e Café" width="600" />
+  <p><em>Code. Coffee. Repeat.</em></p>
+</div>
+
+---
+
+## 📬 Vamos nos conectar?
+
+Tem um projeto em mente, quer trocar uma ideia sobre tecnologia ou tem uma oportunidade? Sinta-se à vontade para me chamar nas redes sociais:
+
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-pereira-pcd-585a38226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/pereiraaa_lucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/LucasPereiraYoutuber" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://instagram.com/pereiraaa_lucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+---
