@@ -1,36 +1,27 @@
 <div align="center">
   <h1>Olá, eu sou Lucas Pereira! 👋</h1>
-  <p>Desenvolvedor Front-End | Em busca da minha primeira oportunidade como Estagiário ou Júnior.</p>
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com formação prevista para julho de 2028. Minha jornada na tecnologia é movida pela curiosidade e pelo desafio de transformar designs em experiências digitais funcionais e acessíveis.
-
-Minha base técnica começou com Python, mas encontrei minha paixão no desenvolvimento Front-End. Hoje, foco em criar interfaces modernas utilizando tecnologias que garantem performance e escalabilidade.
-
-- 🎓 Cursando: Análise e Desenvolvimento de Sistemas (ADS)
-- 🚀 Objetivo: Vaga de Estágio ou Júnior em Front-End.
-- 💡 Filosofia: Código limpo, design funcional e foco na experiência do usuário.
+Um curso de ADS, se ads estto graduado. :ti rede comple 2024, expectado: hoje apmstatio e um seu datti-ou. Ersa focus com anthida para maços para Front-End, focus um detilmento e rramente em GCS.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Minha stack atual, focada em entregar interfaces modernas:
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </div>
 
 ---
@@ -38,8 +29,9 @@ Minha stack atual, focada em entregar interfaces modernas:
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Lucas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pereiraaa-Lucas&theme=radical" alt="Streak Lucas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas" height="195px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pereiraaa-Lucas&theme=dark" alt="Streak do GitHub de Lucas" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=dark&langs_count=3" alt="Linguagens mais usadas por Lucas" height="195px"/>
 </div>
 
 ---
@@ -47,14 +39,12 @@ Minha stack atual, focada em entregar interfaces modernas:
 ## ☕ Code, Coffee, Repeat
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LnQyT2r6363c4/giphy.gif" width="300" />
+  <p>Code. Coffee. Repeat.</p>
 </div>
 
 ---
 
 ## 📬 Vamos nos conectar?
-
-Tem um projeto em mente, quer trocar uma ideia sobre tecnologia ou tem uma oportunidade? Sinta-se à vontade para me chamar nas redes sociais:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-pereira-pcd-585a38226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
