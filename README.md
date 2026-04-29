@@ -36,8 +36,6 @@ Sou um entusiasta da tecnologia de 21 anos, focado em transformar conceitos comp
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
-*(Nota: Substitua `SEU-USUARIO-AQUI` pelo seu username real do GitHub)*
-
 ---
 
 ## 📫 Vamos nos conectar?
