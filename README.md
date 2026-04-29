@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Lucas Pereira</h1>
-  <p>Desenvolvedor Front-End em Transição | Estudante de ADS</p>
+  <p><strong>Desenvolvedor Front-End | Estudante de Análise e Desenvolvimento de Sistemas</strong></p>
+  <p>Transformando código em experiências digitais eficientes e modernas.</p>
 </div>
 
 ---
