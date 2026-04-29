@@ -7,11 +7,13 @@
 ---
 
 ### 👤 Sobre Mim
-Sou um aspirante a Desenvolvedor Front-End movido pelo desafio de transformar código em experiências digitais memoráveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, com formação prevista para julho de 2028.
+Sou um aspirante a *Desenvolvedor Front-End* em transição de carreira, motivado pela criação de interfaces que unem estética e funcionalidade. Atualmente, curso *Análise e Desenvolvimento de Sistemas (ADS)*, com conclusão prevista para julho de 2028.
 
-Minha jornada técnica iniciou com fundamentos sólidos em Python e se expandiu para o ecossistema Web. Foco em unir código limpo a designs modernos, funcionais e, acima de tudo, acessíveis.
+Minha trajetória técnica iniciou com uma base sólida em lógica e desenvolvimento Web, e hoje foco em aprimorar minhas habilidades com tecnologias modernas para entregar projetos escaláveis e acessíveis.
 
-**Objetivo Profissional:** Busco minha primeira oportunidade como **Estagiário** ou **Suporte Júnior**, onde eu possa aplicar minhas competências em desenvolvimento e colaborar com projetos de impacto.
+* 🚀 *Objetivo Profissional:* Estágio ou Suporte Júnior em Desenvolvimento Front-End.
+* 🎓 *Formação:* Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
 
 ---
 
