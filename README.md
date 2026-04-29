@@ -1,65 +1,65 @@
-<div align="center">
-  <h1>Olá, eu sou Lucas Pereira!</h1>
-  <p>Desenvolvedor Front-End | Em busca da minha primeira oportunidade como Estagiário ou Júnior.</p>
-</div>
+# Olá, eu sou o Lucas Pereira 👋
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Oportunidade-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Foco-Front--End-blue?style=for-the-badge" alt="Foco">
+</p>
+
+### 🚀 Sobre Mim
+Sou um entusiasta de tecnologia de 21 anos, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** (Previsão: 07/2028). Minha missão é transformar linhas de código em experiências digitais memoráveis, unindo design moderno, acessibilidade e performance.
+
+- 🎓 Cursando ADS na busca por excelência técnica.
+- 💡 Focado em transição de carreira para **Estágio** ou **Suporte Júnior**.
+- 🛠️ Apaixonado por transformar ideias complexas em interfaces intuitivas.
 
 ---
 
-## 👨‍💻 Sobre Mim
+### 🛠️ Tecnologias e Ferramentas
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com formação prevista para julho de 2028. Minha jornada na tecnologia é movida pela curiosidade e pelo desafio de transformar designs em experiências digitais funcionais e acessíveis.
+**Linguagens e Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+</p>
 
-Minha base técnica começou com Python, mas encontrei minha paixão no desenvolvimento Front-End. Hoje, foco em criar interfaces modernas utilizando tecnologias que garantem performance e escalabilidade.
-
-- 🎓 Cursando: Análise e Desenvolvimento de Sistemas (ADS)
-- 🚀 Objetivo: Vaga de Estágio ou Júnior em Front-End.
-- 💡 Filosofia: Código limpo, design funcional e foco na experiência do usuário.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-Minha stack atual, focada em entregar interfaces modernas:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
-</div>
+**Ferramentas e Workflow:**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Lucas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pereiraaa-Lucas&theme=radical" alt="Streak Lucas" />
-</div>
-
----
-
-## ☕ Code, Coffee, Repeat
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LnQyT2r6363c4/giphy.gif" width="300" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&langs_count=7&theme=radical"/>
+</p>
 
 ---
 
-## 📬 Vamos nos conectar?
+### ☕ Lifestyle & Mindset
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Coffee-Repeat-orange?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Code Coffee Repeat">
+</p>
+<p align="center">
+  <i>"Transformando café em código e problemas em soluções."</i>
+</p>
 
-Tem um projeto em mente, quer trocar uma ideia sobre tecnologia ou tem uma oportunidade? Sinta-se à vontade para me chamar nas redes sociais:
+---
 
-<div align="center">
+### 📫 Vamos Conversar?
+Tem um projeto em mente ou quer trocar uma ideia sobre tecnologia? Sinta-se à vontade para me encontrar nas redes sociais ou me enviar um e-mail!
+
+<div align="left">
   <a href="https://www.linkedin.com/in/lucas-pereira-pcd-585a38226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/LucasPereiraYoutuber" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/pereiraaa_lucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/LucasPereiraYoutuber" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
-
----
