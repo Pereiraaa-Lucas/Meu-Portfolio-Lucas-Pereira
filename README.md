@@ -1,59 +1,48 @@
-# Olá, eu sou o Lucas Pereira! 👋
+# Olá, eu sou o Lucas Pereira 👋
 
-### Desenvolvedor Front-End em Formação | Aspirante a Tech
+### Desenvolvedor Front-End| Back-End em Ascensão | Acadêmico de ADS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Oportunidade-green?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Formação-ADS%20(2028)-blue?style=for-the-badge" alt="Educação">
-</p>
-
----
-
-## 🚀 Sobre Mim
-
-Sou um entusiasta da tecnologia de 21 anos, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Minha missão é transformar linhas de código em experiências digitais memoráveis, unindo **código limpo**, **design moderno** e **acessibilidade**.
-
-- 🎓 **Educação:** Graduando em ADS (Previsão de conclusão: Julho/2028).
-- 💡 **Foco Atual:** Especialização em ecossistemas Modernos de Front-End (React, TS, Tailwind).
-- 🎯 **Objetivo:** Primeira oportunidade como **Estagiário** ou **Suporte Júnior**.
+Sou um entusiasta da tecnologia de 21 anos, focado em transformar conceitos complexos em interfaces digitais elegantes e funcionais. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** (Prev. 2028) e busco minha primeira oportunidade como **Estagiário** ou **Suporte Júnior** para aplicar meu conhecimento técnico e evoluir em um ambiente colaborativo.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Core Stack (Front-End)
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-</p>
+### Front-End & Linguagens
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Outras Competências
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-</p>
+### Back-End & Outros
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Minha Jornada
+- 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
+- 💡 **Foco Atual:** Aperfeiçoamento em React.js e arquitetura de componentes com TypeScript.
+- 🎯 **Objetivo:** Unir código limpo, design moderno e acessibilidade para criar a melhor experiência de usuário possível.
 
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+
+*(Nota: Substitua `SEU-USUARIO-AQUI` pelo seu username real do GitHub)*
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-Dê uma olhada nos meus projetos ou entre em contato para um café (virtual ou presencial)!
-
-<p align="left">
+<div>
   <a href="https://www.linkedin.com/in/lucas-pereira-pcd-585a38226" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -63,4 +52,6 @@ Dê uma olhada nos meus projetos ou entre em contato para um café (virtual ou p
   <a href="https://www.youtube.com/channel/LucasPereiraYoutuber" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-</p>
+</div>
+
+---
