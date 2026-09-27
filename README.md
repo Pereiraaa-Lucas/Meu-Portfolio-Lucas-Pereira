@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Pereiraaa-Lucas's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <div align="center">
   <h1>Lucas Pereira</h1>
   <p><strong>Desenvolvedor Front-End | Estudante de Análise e Desenvolvimento de Sistemas</strong></p>
