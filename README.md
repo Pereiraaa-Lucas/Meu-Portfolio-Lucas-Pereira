@@ -35,26 +35,16 @@ Uma visão geral das tecnologias que utilizo para construir soluções digitais:
 ---
 
 ### 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Pereiraaa--Lucas-blue?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  <img src="https://img.shields.io/badge/Status-Disponível_para_Estágio-success?style=for-the-badge" alt="Status" />
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=radical&disable_animations=true" alt="Top Langs" />
 </p>
-
 
 ---
 
 ### ☕ Lifestyle & Focus
+
 <div align="center">
   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" width="600px" alt="Code Coffee Repeat" />
   <br>
@@ -65,6 +55,7 @@ Uma visão geral das tecnologias que utilizo para construir soluções digitais:
 ---
 
 ### 📬 Vamos Conversar?
+
 Tem um projeto em mente ou quer trocar uma ideia sobre tecnologia? Sinta-se à vontade para me encontrar nas redes sociais ou enviar um e-mail.
 
 <div align="center">
