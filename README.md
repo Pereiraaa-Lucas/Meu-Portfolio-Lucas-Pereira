@@ -36,16 +36,9 @@ Uma visão geral das tecnologias que utilizo para construir soluções digitais:
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Pereiraaa--Lucas-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
-  <img src="https://img.shields.io/badge/Status-Disponível_para_Trabalho-success?style=for-the-badge" alt="Disponível para Trabalho">
-  <img src="https://img.shields.io/badge/Foco-Front--End_%7C_React_%7C_Next.js-purple?style=for-the-badge" alt="Foco Front-End">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stack-HTML5_%7C_CSS3_%7C_JS_%7C_TS-orange?style=for-the-badge" alt="Stack Principal">
-  <img src="https://img.shields.io/badge/Cloud-AWS_%7C_Linux_%7C_Google_Cloud-blue?style=for-the-badge" alt="Cloud e Infra">
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=radical)
 
 ---
 
