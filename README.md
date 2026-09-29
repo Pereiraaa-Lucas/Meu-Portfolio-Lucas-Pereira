@@ -39,6 +39,7 @@ Uma visão geral das tecnologias que utilizo para construir soluções digitais:
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=radical)
 
+
 ---
 
 ### ☕ Lifestyle & Focus
